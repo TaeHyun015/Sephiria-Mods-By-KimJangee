@@ -3,56 +3,56 @@
     "Name": "Endless_Trial",
     "Version": "1.14.0",
     "Description": "엔드 컨텐츠인 '시련'을 게임 내에 추가합니다.",
-    "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/EndlessTrial.zip"
+    "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/EndlessTrial.zip",
     "Targets": ["Endless_Trial.dll", "Endless_Trial"]
   },
   {
     "Name": "MoreEnemy Mod",
     "Version": "1.0.2",
     "Description": "몬스터의 수를 배수로 높여줍니다.",
-    "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/MoreEnemy.dll"
+    "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/MoreEnemy.dll",
     "Targets": ["MoreEnemy.dll"]
   },
   {
     "Name": "HPCurse Mod",
     "Version": "5.9.5",
     "Description": "몬스터의 체력을 배수로 높여줍니다.",
-    "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/HPCurse.dll"
+    "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/HPCurse.dll",
     "Targets": ["HPCurse.dll"]
   },
   {
     "Name": "HiddenRoomTracker Mod",
     "Version": "5.9.5",
     "Description": "비밀방의 존재 유무를 보여줍니다.",
-    "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/HiddenRoomTracker.dll"
+    "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/HiddenRoomTracker.dll",
     "Targets": ["HiddenRoomTracker.dll"]
   },
   {
     "Name": "JustAnvil Mod",
     "Version": "5.9.5",
     "Description": "1층 첫번째 선택지에 확정적으로 모루 방을 생성합니다.",
-    "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/JustAnvil.dll"
+    "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/JustAnvil.dll",
     "Targets": ["JustAnvil.dll"]
   },
   {
     "Name": "Level_Cap Mod",
     "Version": "5.9.5",
     "Description": "플레이어의 레벨 최대치를 엄청나게 늘려줍니다.",
-    "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/Level_Cap.dll"
+    "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/Level_Cap.dll",
     "Targets": ["Level_Cap.dll"]
   },
   {
     "Name": "SetMaxPlayer Mod",
     "Version": "5.9.5",
     "Description": "멀티 플레이 최대 인원 수를 16명으로 늘려줍니다.",
-    "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/SetMaxPlayer.dll"
+    "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/SetMaxPlayer.dll",
     "Targets": ["SetMaxPlayer.dll"]
   },
   {
     "Name": "Utility Mod",
     "Version": "5.9.5",
     "Description": "게임 플레이에 유용한 기능을 몇가지 추가합니다.",
-    "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/Utility.dll"
+    "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/Utility.dll",
     "Targets": ["Utility.dll"]
   }
 ]
