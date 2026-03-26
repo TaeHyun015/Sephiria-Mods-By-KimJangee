@@ -15,7 +15,7 @@
   },
   {
     "Name": "HPCurse Mod",
-    "Version": "5.9.5",
+    "Version": "5.9.6",
     "Description": "몬스터의 체력을 배수로 높여줍니다.",
     "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/HPCurse.dll",
     "Targets": ["HPCurse.dll"]
