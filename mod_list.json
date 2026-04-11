@@ -1,7 +1,7 @@
 [
   {
     "Name": "Endless_Trial",
-    "Version": "1.0.5",
+    "Version": "1.0.6",
     "Description": "엔드 컨텐츠인 '시련'을 게임 내에 추가합니다.",
     "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/EndlessTrial.zip",
     "Targets": ["Endless_Trial.dll", "Endless_Trial"]
@@ -36,8 +36,8 @@
   },
   {
     "Name": "Level_Cap Mod",
-    "Version": "1.0.0",
-    "Description": "플레이어의 레벨 최대치를 엄청나게 늘려줍니다.",
+    "Version": "1.1.0",
+    "Description": "플레이어의 레벨 상한을 해제합니다. 5레벨마다 인벤토리가 늘어납니다.",
     "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/Level_Cap.dll",
     "Targets": ["Level_Cap.dll"]
   },
