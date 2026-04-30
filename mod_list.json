@@ -50,7 +50,7 @@
   },
   {
     "Name": "Utility Mod",
-    "Version": "1.12.0",
+    "Version": "1.13.0",
     "Description": "게임 플레이에 유용한 기능을 여러가지 추가합니다.",
     "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/Utility.dll",
     "Targets": ["Utility.dll"]
