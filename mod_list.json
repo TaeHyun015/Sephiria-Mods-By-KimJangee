@@ -8,7 +8,7 @@
   },
   {
     "Name": "MoreEnemy Mod",
-    "Version": "1.0.2",
+    "Version": "1.8.0",
     "Description": "몬스터의 수를 배수로 높여줍니다.",
     "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/MoreEnemy.dll",
     "Targets": ["MoreEnemy.dll"]
