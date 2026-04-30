@@ -22,7 +22,7 @@
   },
   {
     "Name": "HiddenRoomTracker Mod",
-    "Version": "3.8.0",
+    "Version": "3.9.0",
     "Description": "비밀방의 존재 유무를 보여줍니다.",
     "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/HiddenRoomTracker.dll",
     "Targets": ["HiddenRoomTracker.dll"]
