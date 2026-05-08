@@ -64,7 +64,7 @@
   },
   {
     "Name": "Spectator Mod",
-    "Version": "1.0.0",
+    "Version": "1.1.0",
     "Description": "관전 기능 추가 모드",
     "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/Spectator.dll",
     "Targets": ["Spectator.dll"]
