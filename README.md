@@ -7,7 +7,7 @@ Sephiria 에서 정식적으로 모드를 지원하기 시작하면, 방식을 �
 
 ## 적용법
 
-모드를 적용하기 위해서는 MelonLoader 설치가 __필수__입니다. 아래 링크에서 MelonLoader 설치기를 다운로드 받아주세요.
+모드를 적용하기 위해서는 MelonLoader 설치가 **필수**입니다. 아래 링크에서 MelonLoader 설치기를 다운로드 받아주세요.
 
 [멜론로더 다운로드 받는 링크](https://github.com/LavaGang/MelonLoader/releases/download/v0.7.2/MelonLoader.Installer.exe)
 
