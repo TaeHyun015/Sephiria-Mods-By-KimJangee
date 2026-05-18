@@ -73,7 +73,7 @@
     "Name": "PassivePoint Mod",
     "Version": "1.1.0",
     "Description": "재능 포인트를 설정할 수 있는 모드",
-    "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/PassviePoint.dll",
+    "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/PassivePoint.dll",
     "Targets": ["PassivePoint.dll"]
   }
 ]
