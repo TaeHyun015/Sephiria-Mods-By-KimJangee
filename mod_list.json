@@ -7,13 +7,6 @@
     "Targets": ["MoreEnemy.dll"]
   },
   {
-    "Name": "HPCurse Mod",
-    "Version": "5.9.8",
-    "Description": "몬스터의 체력을 배수로 높여줍니다.",
-    "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/HPCurse.dll",
-    "Targets": ["HPCurse.dll"]
-  },
-  {
     "Name": "HiddenRoomTracker Mod",
     "Version": "3.9.3",
     "Description": "비밀방의 존재 유무를 보여줍니다.",
