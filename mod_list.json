@@ -22,7 +22,7 @@
   },
   {
     "Name": "SetMaxPlayer Mod",
-    "Version": "1.6.0",
+    "Version": "1.0.2",
     "Description": "멀티 플레이 최대 인원 수를 16명으로 늘려줍니다.",
     "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/SetMaxPlayer.dll",
     "Targets": ["SetMaxPlayer.dll"]
