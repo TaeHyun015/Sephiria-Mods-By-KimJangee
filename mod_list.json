@@ -7,6 +7,34 @@
     "Targets": ["HPCurse.zip"]
   },
   {
+    "Name": "MoreEnemy Mod",
+    "Version": "1.0.2",
+    "Description": "적들의 수를 배수로 늘려줍니다. 명령어 : /m 숫자",
+    "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/MoreEnemy.zip",
+    "Targets": ["MoreEnemy.zip"]
+  },
+  {
+    "Name": "MaxPlayer_16 Mod",
+    "Version": "1.0.1",
+    "Description": "멀티플레이 인원 제한을 16명까지 설정할 수 있습니다. 리스트를 최대 4명까지 표시해줍니다. 왼쪽 컨트롤 : 리스트 온오프 토글",
+    "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/MaxPlayer_16.zip",
+    "Targets": ["MaxPlayer_16.zip"]
+  },
+  {
+    "Name": "SendMoney Mod",
+    "Version": "1.0.0",
+    "Description": "멀티플레이에서 다른 플레이어에게 잎을 보낼 수 있습니다. 사용하려면 방의 호스트, 보내려는 사람, 받는 사람이 모두 이 모드가 깔려있어야 합니다. 명령어 : /plist , /send (이름 또는 리스트번호) 금액",
+    "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/SendMoney.zip",
+    "Targets": ["SendMoney.zip"]
+  },
+  {
+    "Name": "CustomSkin Mod",
+    "Version": "1.0.1",
+    "Description": "코스튬의 스킨을 변경해볼 수 있는 모드입니다. 사용법은 https://m.dcinside.com/board/sephiria/18028?headid=80&page=2 를 참고해주세요.",
+    "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/CustomSkin.zip",
+    "Targets": ["CustomSkin.zip"]
+  },
+  {
     "Name": "HiddenRoomTracker Mod",
     "Version": "3.9.3",
     "Description": "비밀방의 존재 유무를 보여줍니다.",
@@ -19,6 +47,13 @@
     "Description": "1층 첫번째 선택지에 확정적으로 모루 방을 생성합니다.",
     "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/JustAnvil.dll",
     "Targets": ["JustAnvil.dll"]
+  },
+  {
+    "Name": "ColorName Mod",
+    "Version": "1.0.0",
+    "Description": "플레이어의 이름을 꾸미고 적용할 수 있는 모드입니다. 동봉된 ColorName_Dialog.exe를 실행하여 닉네임을 편집할 수 있습니다. 오른쪽 Ctrl 키를 눌러 수정된 이름을 불러옵니다.",
+    "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/ColorName.zip",
+    "Targets": ["ColorName.zip"]
   },
   {
     "Name": "Level_Cap Mod",
