@@ -2,7 +2,7 @@
   {
     "Name": "HPCurse Mod",
     "Version": "1.0.2",
-    "Description": "적들의 체력을 배수로 늘려줍니다. 층별 설정이 가능합니다.",
+    "Description": "적들의 체력을 배수로 늘려줍니다. 층별 설정이 가능합니다. 명령어 : /hp",
     "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/HPCurse.zip",
     "Targets": ["HPCurse.zip"]
   },
