@@ -15,7 +15,7 @@
   },
   {
     "Name": "CustomSkin Mod",
-    "Version": "1.0.5",
+    "Version": "1.0.6",
     "Description": "코스튬의 스킨을 변경해볼 수 있는 모드입니다. 사용법은 https://m.dcinside.com/board/sephiria/18028?headid=80&page=2 를 참고해주세요.",
     "Url": "https://github.com/TaeHyun015/Sephiria-Mods-By-KimJangee/raw/refs/heads/main/CustomSkin.zip",
     "Targets": ["CustomSkin.zip"]
